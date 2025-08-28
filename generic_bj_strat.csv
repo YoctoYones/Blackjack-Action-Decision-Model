@@ -1,0 +1,371 @@
+player_hand_val,dealer_up_card,action,splittable
+4,2,hit,False
+5,2,hit,False
+6,2,hit,False
+7,2,hit,False
+8,2,hit,False
+9,2,hit,False
+10,2,double down,False
+11,2,double down,False
+12,2,hit,False
+13,2,stand,False
+14,2,stand,False
+15,2,stand,False
+16,2,stand,False
+17,2,stand,False
+18,2,stand,False
+19,2,stand,False
+20,2,stand,False
+21,2,stand,False
+4,3,hit,False
+5,3,hit,False
+6,3,hit,False
+7,3,hit,False
+8,3,hit,False
+9,3,double down,False
+10,3,double down,False
+11,3,double down,False
+12,3,hit,False
+13,3,stand,False
+14,3,stand,False
+15,3,stand,False
+16,3,stand,False
+17,3,stand,False
+18,3,stand,False
+19,3,stand,False
+20,3,stand,False
+21,3,stand,False
+4,4,hit,False
+5,4,hit,False
+6,4,hit,False
+7,4,hit,False
+8,4,hit,False
+9,4,double down,False
+10,4,double down,False
+11,4,double down,False
+12,4,stand,False
+13,4,stand,False
+14,4,stand,False
+15,4,stand,False
+16,4,stand,False
+17,4,stand,False
+18,4,stand,False
+19,4,stand,False
+20,4,stand,False
+21,4,stand,False
+4,5,hit,False
+5,5,hit,False
+6,5,hit,False
+7,5,hit,False
+8,5,hit,False
+9,5,double down,False
+10,5,double down,False
+11,5,double down,False
+12,5,stand,False
+13,5,stand,False
+14,5,stand,False
+15,5,stand,False
+16,5,stand,False
+17,5,stand,False
+18,5,stand,False
+19,5,stand,False
+20,5,stand,False
+21,5,stand,False
+4,6,hit,False
+5,6,hit,False
+6,6,hit,False
+7,6,hit,False
+8,6,hit,False
+9,6,double down,False
+10,6,double down,False
+11,6,double down,False
+12,6,stand,False
+13,6,stand,False
+14,6,stand,False
+15,6,stand,False
+16,6,stand,False
+17,6,stand,False
+18,6,stand,False
+19,6,stand,False
+20,6,stand,False
+21,6,stand,False
+4,7,hit,False
+5,7,hit,False
+6,7,hit,False
+7,7,hit,False
+8,7,hit,False
+9,7,hit,False
+10,7,double down,False
+11,7,double down,False
+12,7,hit,False
+13,7,hit,False
+14,7,hit,False
+15,7,hit,False
+16,7,hit,False
+17,7,stand,False
+18,7,stand,False
+19,7,stand,False
+20,7,stand,False
+21,7,stand,False
+4,8,hit,False
+5,8,hit,False
+6,8,hit,False
+7,8,hit,False
+8,8,hit,False
+9,8,hit,False
+10,8,double down,False
+11,8,double down,False
+12,8,hit,False
+13,8,hit,False
+14,8,hit,False
+15,8,hit,False
+16,8,hit,False
+17,8,stand,False
+18,8,stand,False
+19,8,stand,False
+20,8,stand,False
+21,8,stand,False
+4,9,hit,False
+5,9,hit,False
+6,9,hit,False
+7,9,hit,False
+8,9,hit,False
+9,9,hit,False
+10,9,double down,False
+11,9,double down,False
+12,9,hit,False
+13,9,hit,False
+14,9,hit,False
+15,9,hit,False
+16,9,hit,False
+17,9,stand,False
+18,9,stand,False
+19,9,stand,False
+20,9,stand,False
+21,9,stand,False
+4,10,hit,False
+5,10,hit,False
+6,10,hit,False
+7,10,hit,False
+8,10,hit,False
+9,10,hit,False
+10,10,hit,False
+11,10,double down,False
+12,10,hit,False
+13,10,hit,False
+14,10,hit,False
+15,10,hit,False
+16,10,hit,False
+17,10,stand,False
+18,10,stand,False
+19,10,stand,False
+20,10,stand,False
+21,10,stand,False
+4,11,hit,False
+5,11,hit,False
+6,11,hit,False
+7,11,hit,False
+8,11,hit,False
+9,11,hit,False
+10,11,hit,False
+11,11,double down,False
+12,11,hit,False
+13,11,hit,False
+14,11,hit,False
+15,11,hit,False
+16,11,hit,False
+17,11,stand,False
+18,11,stand,False
+19,11,stand,False
+20,11,stand,False
+21,11,stand,False
+3 / 13,2,hit,False
+4 / 14,2,hit,False
+5 / 15,2,hit,False
+6 / 16,2,hit,False
+7 / 17,2,hit,False
+8 / 18,2,double down,False
+9 / 19,2,stand,False
+10 / 20,2,stand,False
+11 / 21,2,stand,False
+3 / 13,3,hit,False
+4 / 14,3,hit,False
+5 / 15,3,hit,False
+6 / 16,3,hit,False
+7 / 17,3,double down,False
+8 / 18,3,double down,False
+9 / 19,3,stand,False
+10 / 20,3,stand,False
+11 / 21,3,stand,False
+3 / 13,4,hit,False
+4 / 14,4,hit,False
+5 / 15,4,double down,False
+6 / 16,4,double down,False
+7 / 17,4,double down,False
+8 / 18,4,double down,False
+9 / 19,4,stand,False
+10 / 20,4,stand,False
+11 / 21,4,stand,False
+3 / 13,5,double down,False
+4 / 14,5,double down,False
+5 / 15,5,double down,False
+6 / 16,5,double down,False
+7 / 17,5,double down,False
+8 / 18,5,double down,False
+9 / 19,5,stand,False
+10 / 20,5,stand,False
+11 / 21,5,stand,False
+3 / 13,6,double down,False
+4 / 14,6,double down,False
+5 / 15,6,double down,False
+6 / 16,6,double down,False
+7 / 17,6,double down,False
+8 / 18,6,double down,False
+9 / 19,6,double down,False
+10 / 20,6,stand,False
+11 / 21,6,stand,False
+3 / 13,7,hit,False
+4 / 14,7,hit,False
+5 / 15,7,hit,False
+6 / 16,7,hit,False
+7 / 17,7,hit,False
+8 / 18,7,stand,False
+9 / 19,7,stand,False
+10 / 20,7,stand,False
+11 / 21,7,stand,False
+3 / 13,8,hit,False
+4 / 14,8,hit,False
+5 / 15,8,hit,False
+6 / 16,8,hit,False
+7 / 17,8,hit,False
+8 / 18,8,stand,False
+9 / 19,8,stand,False
+10 / 20,8,stand,False
+11 / 21,8,stand,False
+3 / 13,9,hit,False
+4 / 14,9,hit,False
+5 / 15,9,hit,False
+6 / 16,9,hit,False
+7 / 17,9,hit,False
+8 / 18,9,hit,False
+9 / 19,9,stand,False
+10 / 20,9,stand,False
+11 / 21,9,stand,False
+3 / 13,10,hit,False
+4 / 14,10,hit,False
+5 / 15,10,hit,False
+6 / 16,10,hit,False
+7 / 17,10,hit,False
+8 / 18,10,hit,False
+9 / 19,10,stand,False
+10 / 20,10,stand,False
+11 / 21,10,stand,False
+3 / 13,11,hit,False
+4 / 14,11,hit,False
+5 / 15,11,hit,False
+6 / 16,11,hit,False
+7 / 17,11,hit,False
+8 / 18,11,hit,False
+9 / 19,11,stand,False
+10 / 20,11,stand,False
+11 / 21,11,stand,False
+4,2,split,True
+6,2,split,True
+8,2,hit,True
+10,2,double down,True
+12,2,split,True
+14,2,split,True
+16,2,split,True
+18,2,split,True
+20,2,stand,True
+2 / 12,2,split,True
+4,3,split,True
+6,3,split,True
+8,3,hit,True
+10,3,double down,True
+12,3,split,True
+14,3,split,True
+16,3,split,True
+18,3,split,True
+20,3,stand,True
+2 / 12,3,split,True
+4,4,split,True
+6,4,split,True
+8,4,hit,True
+10,4,double down,True
+12,4,split,True
+14,4,split,True
+16,4,split,True
+18,4,split,True
+20,4,stand,True
+2 / 12,4,split,True
+4,5,split,True
+6,5,split,True
+8,5,split,True
+10,5,double down,True
+12,5,split,True
+14,5,split,True
+16,5,split,True
+18,5,split,True
+20,5,stand,True
+2 / 12,5,split,True
+4,6,split,True
+6,6,split,True
+8,6,split,True
+10,6,double down,True
+12,6,split,True
+14,6,split,True
+16,6,split,True
+18,6,split,True
+20,6,stand,True
+2 / 12,6,split,True
+4,7,split,True
+6,7,split,True
+8,7,hit,True
+10,7,double down,True
+12,7,hit,True
+14,7,split,True
+16,7,split,True
+18,7,stand,True
+20,7,stand,True
+2 / 12,7,split,True
+4,8,hit,True
+6,8,hit,True
+8,8,hit,True
+10,8,double down,True
+12,8,hit,True
+14,8,hit,True
+16,8,split,True
+18,8,split,True
+20,8,stand,True
+2 / 12,8,split,True
+4,9,hit,True
+6,9,hit,True
+8,9,hit,True
+10,9,double down,True
+12,9,hit,True
+14,9,hit,True
+16,9,split,True
+18,9,split,True
+20,9,stand,True
+2 / 12,9,split,True
+4,10,hit,True
+6,10,hit,True
+8,10,hit,True
+10,10,hit,True
+12,10,hit,True
+14,10,hit,True
+16,10,split,True
+18,10,stand,True
+20,10,stand,True
+2 / 12,10,split,True
+4,11,hit,True
+6,11,hit,True
+8,11,hit,True
+10,11,hit,True
+12,11,hit,True
+14,11,hit,True
+16,11,split,True
+18,11,stand,True
+20,11,stand,True
+2 / 12,11,split,True
