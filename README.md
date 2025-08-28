@@ -20,6 +20,7 @@ A module of classes and functions that are imported into other scripts. The func
 ### [bj_generate_training_data.py](./bj_generate_training_data.py)
 
 Generates Blackjack training data:
+- Dynamic deck that reshuffles
 - Stores data in `bj_training.csv` with the following features:
 
 | Feature          | Description                                                                 |
@@ -34,6 +35,8 @@ Generates Blackjack training data:
 Use `generate_data(N)` on `line 296` to generate `N` blackjack games and store them in `bj_training.csv`.
 
 If `bj_training.csv` isn't found `bj_generate_training_data.py` will create it.
+
+Use `set_game_deck(amount)` on `line 283` to dynamically generate blackjack games with `amount` decks. Recommended value 6 to 8.
 
 
 ### [bj_model_training.py](./bj_model_training.py)  
@@ -51,6 +54,7 @@ Featured Outputs:
 - Win rates over up to 10,000 games  
 - Balance, median balance and average balance progression up to 30 games    
 
+Use `set_game_deck(amount)` on `line 86` to dynamically analyze blackjack games with `amount` decks. Recommended value 6 to 8.
 
 ## Purpose of Project
 
