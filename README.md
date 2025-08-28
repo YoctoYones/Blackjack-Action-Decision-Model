@@ -9,7 +9,7 @@ A Python machine learning model (RandomForestClassifier) that recommends the bes
 
 ## How to use
 
-User guide on following .py files.
+User guide on following .py files.  
 
 
 ### [bj_module.py](./bj_module.py)
@@ -36,20 +36,20 @@ Use `generate_data(N)` on `line 296` to generate `N` blackjack games and store t
 If `bj_training.csv` isn't found `bj_generate_training_data.py` will create it.
 
 
-### [bj_model_training.py](./bj_model_training.py)
+### [bj_model_training.py](./bj_model_training.py)  
 
 This script trains a RandomForestClassifier model based on data from `bj_training.csv`. 
 
 The script also contains the function `model_action` which is used to make the model recommend the best possible action for a blackjack hand. The aforementioned function is imported into `bj_analysis.py`. 
 
 
-### [bj_analysis.py](./bj_analysis.py)
+### [bj_analysis.py](./bj_analysis.py)  
 
 Analyzes the trained model’s performance vs. other Blackjack strategies such as randomly picking actions, mimicking the dealer and a [generic strategy](https://www.blackjackapprenticeship.com/blackjack-strategy-charts/). 
 
 Featured Outputs:
 - Win rates over up to 10,000 games  
-- Balance, median balance and average balance progression up to 30 games  
+- Balance, median balance and average balance progression up to 30 games    
 
 
 ## Purpose of Project
