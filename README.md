@@ -9,7 +9,7 @@ A Python machine learning model (RandomForestClassifier) that recommends the bes
 
 ## How to use
 
-User guide on following .py files.  
+User guide on following .py files.   
 
 
 ### [bj_module.py](./bj_module.py)
