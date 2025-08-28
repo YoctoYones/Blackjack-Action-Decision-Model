@@ -35,7 +35,8 @@ Use `generate_data(N)` on `line 296` to generate `N` blackjack games and store t
 
 If `bj_training.csv` isn't found `bj_generate_training_data.py` will create it.
 
-### bj_model_training.py
+
+### [bj_model_training.py](./bj_model_training.py)
 
 This script trains a RandomForestClassifier model based on data from `bj_training.csv`. 
 
