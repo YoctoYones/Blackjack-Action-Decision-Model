@@ -14,7 +14,7 @@ User guide on following .py files.
 
 ### [bj_module.py](./bj_module.py)
 
-A module of classes and functions that are imported into other scripts. The function `generic_strat` depends on `generic_bj_strat.csv`.
+A module of classes and functions that are imported into the other scripts. The function `generic_strat` depends on `generic_bj_strat.csv`.
 
 
 ### [bj_generate_training_data.py](./bj_generate_training_data.py)
