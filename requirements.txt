@@ -1,0 +1,14 @@
+--PACKAGES--
+matplotlib
+os
+pandas
+random
+scikit-learn
+scipy
+seaborn
+sys
+
+--.CSV FILES--
+generic_bj_strat.csv
+
+
